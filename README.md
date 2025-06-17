@@ -47,15 +47,6 @@ Un bot de Discord para automatización y monitoreo de mensajes, ahora en Python.
    python main.py
    ```
 
-## Comandos
-
-- `!ping` - Verificar latencia del bot
-- `!info` - Mostrar información del bot
-- `!purge <cantidad>` - Eliminar tus mensajes
-- `!monitor <start|stop|status>` - Controlar monitoreo de mensajes
-- `!logs` - Mostrar estadísticas del archivo de registro
-- `!help` - Mostrar mensaje de ayuda
-
 ## Configuración
 
 Edita `config.py` para configurar:
