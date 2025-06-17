@@ -76,11 +76,3 @@ Edita `config.py` para configurar:
 ├── logs/               # Directorio de logs
 └── discord_selfbotting/ # Entorno virtual de Python
 ```
-
-## Migración desde JavaScript
-
-Este proyecto ha sido migrado de JavaScript a Python. Los archivos JavaScript originales (`index.js`, `config.js`, etc.) siguen disponibles para referencia, pero la versión actual funciona completamente en Python.
-
-## Disclaimer
-
-Este es un self-bot, lo que significa que se conecta como una cuenta de usuario. Los self-bots están contra los Términos de Servicio de Discord. Úsalo bajo tu propio riesgo.
